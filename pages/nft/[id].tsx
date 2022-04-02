@@ -8,7 +8,7 @@ import Link from 'next/link';
 
 interface Props {
     collection: Collection
-}
+}//gdfgds
 
 function NftDropPage({collection}:Props) {
     //auth part
